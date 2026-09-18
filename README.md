@@ -19,6 +19,7 @@
 
 ### 📌 Repositórios em destaque
 
+- 🗂️ .[front](https://github.com/matheuxmartins2001/front) — exercícios e projetos de desenvolvimento Front-End com HTML e CSS
 - 🗂️ [estudo-git](https://github.com/matheuxmartins2001/estudo-git) — repositório de estudos práticos sobre Git
 - 🗂️ [estudo-git-es](https://github.com/matheuxmartins2001/estudo-git-es) — exercícios de Git aplicados à disciplina de Engenharia de Software
 - 🗂️ [meu-primeiro-repo](https://github.com/matheuxmartins2001/meu-primeiro-repo) — meu primeiro contato com o GitHub
@@ -41,3 +42,5 @@
 ---
 
 ⭐ *Este perfil está em constante evolução, assim como minha jornada na programação!*
+
+
